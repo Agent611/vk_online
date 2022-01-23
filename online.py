@@ -1,3 +1,5 @@
+#written by Alex with❤️
+
 import time, vk_api
 
 Login = input('Ваш логин :')
